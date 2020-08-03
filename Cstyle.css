@@ -1,0 +1,35 @@
+*{
+font-size :	20px;
+font-style: italic;
+font-weight: bold;
+padding: 10px;
+color: white;
+
+}
+body{
+	padding: 0px;
+	margin: 0px;
+}
+#one{
+background-color:#e01fe0;		
+}
+#two{
+background-color: #9500ff;
+}
+#three{
+background-color:   #0000ff;
+}
+#four{
+background-color: #4dff4d;
+color: black;
+}
+#five{
+background-color: #ffff00;
+color: black;
+}
+#six{
+background-color: #ffa500;
+}
+#seven{
+background-color: #ff0000;
+}
